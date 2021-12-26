@@ -8,5 +8,6 @@ List of algorithms and models:
 - Naive Bayes
 - Linear Regression model (simple and multiple too)
 - Logistic Regression (with Gradient Descent)
+- Neural Networks
 
 You can find more information inside each Jupyter Notebook.
